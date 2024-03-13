@@ -12,11 +12,8 @@
 
 ![21](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/1846f518-f75b-4080-aab7-3438a98a59f2)
 ![22](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/f8597fce-142a-4c87-bea0-4bd82055bf9d)
-![23](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/4fa65d58-17c5-4dc3-ab0a-9d980464de02)
-![24](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/f7658095-6e22-4b25-b4f7-83fff8af6833)
 ![25](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/90dcb3a5-2542-4f2c-8b8d-8dbae065e120)
 ![26](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/e9ef698f-5ea8-4881-bcbc-8403906c8eb7)
-![27](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/a19bc67b-007a-4ec6-88e7-d479e6f107ff)
 ![28](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/8eba820e-32f7-4469-aee2-de8f0fb561d2)
 ![29](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/c0480317-af88-427a-b5f0-44af952447cb)
 ![30](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/cf6bab9a-627a-4bbd-8abb-c28931e000a9)

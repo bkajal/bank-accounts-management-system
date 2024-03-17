@@ -1,6 +1,27 @@
 # bank-accounts-management-system
  Built a dynamic Bank Account Management System. Hibernate for (ORM) Mapping of Bank entity and Account entity.OneToMany-ManyToOne Bidirectional Mapping for relationship between bank and associated accounts. OOP principles and Exceptional Handling and Annotations for robustness, maintainability. CRUD operations for bank and account.
  <!--Visual Demonstration! -->
+![Screenshot 2024-02-07 152224](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/e7ba5f5f-d8ed-4372-ac17-5732e26d903c)
+![Screenshot 2024-03-15 053542](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/455109d1-3d3b-4810-b227-7e8568333458)
+![1](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/a3636fa9-7956-47c1-a0cf-101785f7bc75)
+![2](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/bd7cb84e-27e3-44d9-b006-4ff5b68f9b49)
+![3](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/c81603ea-fa62-46b2-b21a-0f89c427e367)
+![4](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/b6d55cfd-0482-4bcd-a94f-2b652d194004)
+![5](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/fa889294-aae7-4d35-8f9c-fdd9b0f13a30)
+![6](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/97279db9-509c-4a82-be06-b7aa226541c9)
+![7](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/2f0740a6-fa28-421f-83c4-5e5904c3ebc2)
+![8](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/7996648a-bc19-4983-b324-4bb3e402d51d)
+![9](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/aa117b1a-4e84-4b6a-9b2d-0daaf9a4d09f)
+![10](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/3254927a-22a8-4782-a08b-2d3931046fcc)
+![11](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/8dee55e6-c549-42b2-9381-6f78bb68b75f)
+ ![12](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/c888150a-08dd-4e57-bd29-ad1623e62478)
+![13](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/7a6ede13-7a09-496b-a6c5-ab5536369779)
+![14](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/5b6c5f7c-7901-41c3-8e89-0c5526c0cea2)
+![15](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/8910b797-c8a5-4672-b23f-f3a24f897b10)
+![16](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/87dc693e-7509-4af9-a272-703938fd5f32)
+![17](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/42ab6a29-b0cf-4934-bb3a-a820ac9e18a8)
+![18](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/fdbf5460-e0b9-4c52-9be4-a8733e926763)
+<!--Exception Handling-->
 ![21](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/1846f518-f75b-4080-aab7-3438a98a59f2)
 ![22](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/f8597fce-142a-4c87-bea0-4bd82055bf9d)
 ![25](https://github.com/bkajal/bank-accounts-management-system/assets/153576383/90dcb3a5-2542-4f2c-8b8d-8dbae065e120)
